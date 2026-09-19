@@ -1,5 +1,7 @@
 # im-not-ai (Humanize KR) — a de-AI-ifier for Korean text
 
+> 📌 This repository is a personal mirror of [`epoko77-ai/im-not-ai`](https://github.com/epoko77-ai/im-not-ai) (MIT licensed, original authorship preserved). See the upstream repo for the latest version and contributions.
+
 > 한국어 문서: [`README.md`](README.md)
 
 LLMs write Korean that *reads* like translated English. Native speakers spot it instantly, and no amount of prompting ("write naturally in Korean") fixes it — the tells are structural, not stylistic.

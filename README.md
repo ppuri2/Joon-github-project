@@ -4,6 +4,8 @@
 
 # Humanize KR — 한글 AI 티 제거기 v2.3.2
 
+> 📌 이 저장소는 [`epoko77-ai/im-not-ai`](https://github.com/epoko77-ai/im-not-ai)를 그대로 미러링한 개인 사본입니다 (MIT 라이선스, 원저작자 표기 유지). 최신 버전과 기여는 원본 저장소를 참고하세요.
+
 > **English**: [`README.en.md`](README.en.md)
 
 AI(ChatGPT · Claude · Gemini 등)가 쓴 한글 글을 **내용은 한 글자도 건드리지 않고** 문체 · 리듬 · 표현만 자연스러운 한국어로 되돌리는 CLI 스킬입니다.
